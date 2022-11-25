@@ -7,7 +7,7 @@
   "name": "chess",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "http://aliikamel.github.io/IPhone-Calculator-Clone",
+  "homepage": "http://aliikamel.github.io/chess-react",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
